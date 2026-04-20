@@ -62,6 +62,9 @@ salary-predictor/
 ├── README.md              # Project documentation
 └── data/
     └── job_salary_prediction_dataset.csv
+
+
+
 🔍 Key Findings
 Experience matters most: 10+ years experience earns 80% more than entry-level
 
@@ -71,12 +74,16 @@ Remote work impact: Fully remote roles pay 15% more than on-site roles
 
 Industry variance: Finance and Tech are the highest paying industries
 
+
+
 ⚠️ Limitations
 Dataset primarily covers specific job markets (no China data)
 
 Senior-level data (10+ years) is limited
 
 Predictions are estimates, not guarantees
+
+
 
 🤖 AI Disclosure
 Tool	Version	Access Date	Usage
