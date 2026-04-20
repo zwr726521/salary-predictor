@@ -38,14 +38,14 @@ Job seekers often struggle to answer: *"What salary should I expect?"* This tool
 ```bash
 git clone https://github.com/yourusername/salary-predictor.git
 cd salary-predictor
-
-2. Install dependencies
+```
+### 2. Install dependencies
 bash
 pip install -r requirements.txt
-3. Run the app
+### 3. Run the app
 The app will open automatically at http://localhost:8501
 
-```
+``
 ### 📱 Features
 Feature	Description
 🔍 Data Filtering	Filter by industry, location, remote work
