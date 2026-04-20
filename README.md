@@ -44,7 +44,9 @@ bash
 pip install -r requirements.txt
 3. Run the app
 The app will open automatically at http://localhost:8501
-📱 Features
+
+```
+### 📱 Features
 Feature	Description
 🔍 Data Filtering	Filter by industry, location, remote work
 📊 Market Analysis	Salary by industry, experience, education
@@ -54,7 +56,7 @@ Feature	Description
 📥 Export Data	Download filtered data as CSV
 🌐 Multi-language	English / Chinese support
 
-📁 Project Structure
+### 📁 Project Structure
 salary-predictor/
 ├── app.py                 # Streamlit application
 ├── analysis.ipynb         # Jupyter Notebook analysis
@@ -65,7 +67,7 @@ salary-predictor/
 
 
 
-🔍 Key Findings
+### 🔍 Key Findings
 Experience matters most: 10+ years experience earns 80% more than entry-level
 
 Education premium: PhD holders earn 25% more than Bachelor's degree holders
@@ -76,7 +78,7 @@ Industry variance: Finance and Tech are the highest paying industries
 
 
 
-⚠️ Limitations
+### ⚠️ Limitations
 Dataset primarily covers specific job markets (no China data)
 
 Senior-level data (10+ years) is limited
@@ -85,19 +87,19 @@ Predictions are estimates, not guarantees
 
 
 
-🤖 AI Disclosure
+### 🤖 AI Disclosure
 Tool	Version	Access Date	Usage
 ChatGPT	GPT-4	April 2026	Code structure, debugging, documentation
 DeepSeek	Latest	April 2026	Initial code generation, optimization
-📹 Demo Video
+### 📹 Demo Video
 [Link to demo video - to be added]
 
-👤 Author
+### 👤 Author
 Student ID: [Your Student ID]
 
 Course: ACC102 Mini Assignment
 
 Track: Track 4 - Interactive Data Analysis Tool
 
-📅 Submission Date
+### 📅 Submission Date
 April 27, 2026
