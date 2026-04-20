@@ -95,7 +95,7 @@ DeepSeek	Latest	April 2026	Initial code generation, optimization
 [Link to demo video - to be added]
 
 ### 👤 Author
-Student ID: [Your Student ID]
+Student ID:2470444
 
 Course: ACC102 Mini Assignment
 
