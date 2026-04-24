@@ -92,7 +92,7 @@ Tool	Version	Access Date	Usage
 ChatGPT	GPT-4	April 2026	Code structure, debugging, documentation
 DeepSeek	Latest	April 2026	Initial code generation, optimization
 ### 📹 Demo Video
-[Link to demo video - to be added]
+https://video.xjtlu.edu.cn/mediasite/mymediasite/presentations/15069aa2c4c9421bb2de6d951e08fa621d
 
 ### 👤 Author
 Student ID:2470444
